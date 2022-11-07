@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Administradora
+comment1.params=bandeira
+comment1.target=Administradora(java.lang.String)
+comment2.params=pessoa
+comment2.target=void\ addCliente(Cliente)
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Compra
+comment1.params=dCompra\ card\ valorCompra\ parcelas
+comment1.target=Compra(Data,\ Cartao,\ double,\ int)
+comment2.params=
+comment2.target=void\ fazcompra()
+comment3.params=
+comment3.target=void\ printpontos()
+numComments=4

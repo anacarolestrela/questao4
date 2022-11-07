@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Cartao
+comment1.params=codP\ codS\ expedicao\ validade
+comment1.target=Cartao(int,\ int,\ Data,\ Data)
+comment2.params=
+comment2.target=double\ calclimite()
+comment3.params=card
+comment3.target=void\ printNumComp(Cartao)
+comment4.params=
+comment4.target=double\ getPontos()
+numComments=5
